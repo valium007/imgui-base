@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\\\Users\\\\Admin\\\\Downloads\\\\imgui-master\\\\imgui-master",
+                "C:\\\\Users\\\\Admin\\\\Downloads\\\\imgui-master\\\\imgui-master\\\\backends"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "gnu++17"
+        }
+    ],
+    "version": 4
+}
